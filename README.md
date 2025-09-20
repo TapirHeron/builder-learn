@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A simple builder pattern demo
 
 implements select delete insert update those DML
@@ -61,3 +62,7 @@ example
                 .build());
 
 ```
+=======
+# builder-learn
+to learn builder pattern
+>>>>>>> a24f9afd19d6b7c1b60d909e75c88c2de97cb2dd
